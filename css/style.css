@@ -1,0 +1,184 @@
+body{
+  background: #1D3557;
+  font-family: 'Inter', sans-serif;
+}
+.dalio{
+  font-size: 40px;
+  color: #FFFF;
+}
+.a{
+  font-size: 40px;
+  color: #FFC93E;
+}
+.navegacion{
+  font-size: 18px;
+  color: #FFFF;
+  margin: 10px;
+  text-decoration: none;
+}
+.digital{
+  font-size: 150px;
+  color: #FFFF;
+  text-align: center;
+}
+.seccion{
+  color: #E0E5F3;
+  font-size: 16px;
+}
+.titulo{
+  color: #FFFF;
+  font-size: 48px;
+}
+.yellow{
+  background-color: #FFC93E;
+  color: #000000;
+  font-size: 18px;
+  text-decoration: none;
+}
+.white{
+  color: #FFFFFF;
+  font-size: 24px;
+}
+
+.statistics{
+  color:#FFFFFF ;
+  font-size: 48px;
+}
+.estadistica{
+  color: #E0E5F3;
+  font-size:20px ;
+}
+.fondo{
+  background-color: #353F5B;
+}
+.blog{
+  color: #FFC93E;
+  font-size: 12px;
+}
+.service{
+  color: #E0E5F3;
+  font-size: 16px;
+}
+.form{
+  background-color: #FFC93E;
+}
+.email{
+  color: #000000;
+  font-size: 20px;
+}
+.load{
+  background-color: #FFC93E;
+  color: #000000;
+  font-size: 16px;
+  text-decoration: none;
+}
+/* quitarles los bordes a white2 y yellow2  */
+.white2{
+  color: #FFFFFF;
+  font-size: 16px;
+  background: #1D3557;
+  margin: 10px;
+  text-decoration: none;
+}
+.yellow2{
+  color: #FFC93E;
+  font-size: 16px;
+  background: #1D3557;
+  margin: 10px;
+  text-decoration: none;
+}
+.tec{
+  background-color: #FFFFFF;
+  color: #FFC93E;
+  font-size: 12px;
+  text-decoration: none;
+}
+.read{
+  color: #FFFF;
+  font-size: 16px;
+  background-color: #353F5B;
+  text-decoration: none;
+  border: 1px solid #FFFFFF;
+  border-radius: 30px;
+  -webkit-border-radius: 30px;
+  -moz-border-radius: 30px;
+  -ms-border-radius: 30px;
+  -o-border-radius: 30px;
+}
+.read2{
+  color: #000000;
+  font-size: 16px;
+  background-color: #FFC93E;
+  text-decoration: none;
+  border: 1px solid #FFC93E;
+  border-radius: 30px;
+  -webkit-border-radius: 30px;
+  -moz-border-radius: 30px;
+  -ms-border-radius: 30px;
+  -o-border-radius: 30px;
+}
+.comment{
+  color: #FFC93E;
+  font-size: 16px;
+}
+:root{
+  --twitter:#55acee;
+  --facebook:#3b5999;
+  --dribble:#FFC93E;
+  --github:#000000;
+}
+
+.redes-container{
+  display: flex;
+  height: 100px;
+  align-items: baseline;
+  justify-content: right;
+}
+.redes-container ul li{
+  display: inline-block;
+  margin: 0 5px;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+}
+
+.redes-container ul li a{
+  display: block;
+  padding: 0 10px;
+  background-color: #333;
+  color: #FFFF;
+  line-height: 50px;
+  font-size: 18px;
+  box-shadow: 0 3px 5px 0px rgba(0, 0, 0, .2);
+  transition: .2s;
+  -webkit-transition: .2s;
+  -moz-transition: .2s;
+  -ms-transition: .2s;
+  -o-transition: .2s;
+}
+.redes-container ul li a:hover{
+  transform: translateY(-3px) scale(1.05);
+  -webkit-transform: translateY(-3px) scale(1.05);
+  -moz-transform: translateY(-3px) scale(1.05);
+  -ms-transform: translateY(-3px) scale(1.05);
+  -o-transform: translateY(-3px) scale(1.05);
+}
+.redes-container ul li .twitter-icon:hover{
+  background: var(--twitter);
+}
+.redes-container ul li .facebook-icon:hover{
+  background: var(--facebook);
+}
+.redes-container ul li .dribble-icon:hover{
+  background: var(--dribble);
+}
+.redes-container ul li .github-icon:hover{
+  background: var(--github);
+}
+.box {
+  text-align: right;
+  left: 120px;
+  color: #fff;
+  font-size: 24px;
+
+}
