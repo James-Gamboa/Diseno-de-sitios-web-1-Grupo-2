@@ -1,0 +1,230 @@
+body{
+  font-family: 'Inter', sans-serif;
+}
+.background-all{
+  background: rgb(82,189,170);
+  background: linear-gradient(600deg, rgba(82,189,170,1) 0%, rgba(255,255,255,1) 40%, rgba(249,248,254,1) 91%, rgba(255,255,255,1) 100%);
+}
+.biccas{
+  color: #54bd95;
+  font-size: 54px;
+}
+.navigation{
+  display: inline-block;
+  color: #a6a6a6;
+  margin: 10px;
+  font-size: 16px;
+  text-decoration: none;
+}
+.home{
+  color: #000000;
+  text-decoration: none;
+}
+.sign{
+  font-size: 16px;
+  color: #fff;
+  text-decoration: none;
+  border-style:  solid;
+  border-radius: 100px;
+  -webkit-border-radius: 100px;
+  -moz-border-radius: 100px;
+  -ms-border-radius: 100px;
+  -o-border-radius: 100px;
+  border-color: #54bd95;
+  background-color: #54bd95;
+}
+.login{
+  display: inline-block;
+  text-decoration: none;
+}
+.main{
+  display: block;
+  font-size: 80px;
+}
+.try{
+  display:table;
+  font-size: 16px;
+  color: #fff;
+  text-decoration: none;
+  border-style:solid;
+  border-radius: 100px;
+  -webkit-border-radius: 100px;
+  -moz-border-radius: 100px;
+  -ms-border-radius: 100px;
+  -o-border-radius: 100px;
+  border-color: #54bd95;
+  background-color: #54bd95;
+}
+.view{
+  font-size: 18px;
+}
+.subtitle{
+  font-size: 40px;
+}
+.support{
+display:block;
+color: #191a15;
+font-size: 50px;
+}
+.support-p{
+  display: block;
+  font-size: 16px;
+  color:#a6a6a6;
+}
+.star{
+  display: block;
+  padding: 0px 0px 7px;
+}
+.qualification{
+  display: block;
+  font-size: 18px;
+  padding: 0px 0px 7px;
+}
+.data{
+  display: block;
+  font-size: 18px;
+  padding: 0px 0px 7px;
+}
+.sub{
+  font-size: 28px;
+  color: #191A15;
+}
+.list{
+  list-style:none ;
+  color:#191a15 ;
+  font-size: 18px;
+  margin: 10px;
+}
+.text{
+  color: #a6a6a6;
+  font-size: 18px;
+  text-align: start;
+}
+.statistics{
+  color: #191a15;
+  font-size: 30px;
+  display: block;
+}
+.try2{
+  display:inline-block;
+  font-size: 16px;
+  color: #fff;
+  text-decoration: none;
+  border-style:solid;
+  border-radius: 100px;
+  -webkit-border-radius: 100px;
+  -moz-border-radius: 100px;
+  -ms-border-radius: 100px;
+  -o-border-radius: 100px;
+  border-color: #54bd95;
+  background-color: #54bd95;
+}
+.bill{
+  display:inline-block;
+  font-size: 16px;
+  color: #000000;
+  text-decoration: none;
+  border-style:solid;
+  border-radius: 100px;
+  -webkit-border-radius: 100px;
+  -moz-border-radius: 100px;
+  -ms-border-radius: 100px;
+  -o-border-radius: 100px;
+  border-color: #fff;
+  background-color: #fff;
+}
+.background-s8{
+  background:#161C28 ;
+  margin:auto;
+  padding: 10px;
+}
+.signup{
+  font-size: 16px;
+  color: #54bd95;
+  text-decoration: none;
+  border-style:  solid;
+  border-radius: 100px;
+  -webkit-border-radius: 100px;
+  -moz-border-radius: 100px;
+  -ms-border-radius: 100px;
+  -o-border-radius: 100px;
+  border-color: #fff;
+  background-color: #fff;
+}
+.save{
+  font-size: 16px;
+  color: #fff;
+  text-decoration: none;
+  border-style:  solid;
+  border-radius: 100px;
+  -webkit-border-radius: 100px;
+  -moz-border-radius: 100px;
+  -ms-border-radius: 100px;
+  -o-border-radius: 100px;
+  border-color: #85DAB9;
+  background-color: #85DAB9;
+}
+.background-7{
+  background-color: #54BD95;
+}
+.background-w{
+  background: white;
+}
+.support-a{
+  display: block;
+  text-decoration: none;
+  font-size: 16px;
+  color:#a6a6a6;
+}
+.white-p{
+  display: block;
+  text-decoration: none;
+  color: #fff;
+  font-size: 18px;
+}
+.white-p2{
+  display: inline-block;
+  margin: 10px;
+  text-decoration: none;
+  color: #fff;
+  font-size: 18px;
+}
+.title-w{
+  display:block;
+color: #fff;
+font-size: 50px;
+}
+.background-f{
+  background: #222938;
+}
+.white-g{
+display: block;
+font-size: 30px;
+color: #fff;
+}
+.text-w{
+  color: #fff;
+  font-size: 14px;
+}
+.text-g{
+  color:#a6a6a6 ;
+  font-size: 14px;
+}
+.get{
+  color: #fff;
+  font-size:  30px;
+}
+.square{
+  font-size: 14px;
+  color: #a6a6a6;
+  border-radius: 80px;
+  -webkit-border-radius: 80px;
+  -moz-border-radius: 80px;
+  -ms-border-radius: 80px;
+  -o-border-radius: 80px;
+  padding: 5px;
+  margin-bottom: 14px;
+}
+.images{
+  margin: 20px;
+}
